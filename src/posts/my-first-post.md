@@ -11,3 +11,5 @@ tags:
 # Markdown title
 
 Great stuff!
+
+![vembla_logo](/static/img/vembla.png "Vembla")
