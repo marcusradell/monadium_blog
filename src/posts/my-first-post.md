@@ -8,4 +8,6 @@ tags:
   - center
   - right
 ---
+# Markdown title
+
 Great stuff!
