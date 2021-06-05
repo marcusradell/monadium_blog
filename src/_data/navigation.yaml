@@ -1,3 +1,5 @@
 items:
+  - text: Members
+    url: /members
   - text: Blog
     url: /blog
